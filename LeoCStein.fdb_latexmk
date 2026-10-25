@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1792897792.04007 "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" "LeoCStein.pdf" "LeoCStein" 1792897792.99568 0
-  "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" 1792897791.8534 14970 f4170956824c11f9e0f9c0c4155af40a ""
+["pdflatex"] 1792898434.99859 "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" "LeoCStein.pdf" "LeoCStein" 1792898435.88765 0
+  "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" 1792898433.85887 15320 e1357eebdbb253a3b8bc22b3b5b76baf ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -102,9 +102,9 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "ContactContent.tex" 1792516825.76072 456 00af5826f3e9a02968d7f3cb817a1ec4 ""
-  "LeoCStein.aux" 1792897792.89151 1918 160b2ee6bcc54557b1b98caddf7c7679 "pdflatex"
-  "LeoCStein.out" 1792897792.89205 2083 1f9848b2700f3c447fd70b2a4872b328 "pdflatex"
-  "LeoCStein.tex" 1792897791.8534 14970 f4170956824c11f9e0f9c0c4155af40a ""
+  "LeoCStein.aux" 1792898435.79307 1918 160b2ee6bcc54557b1b98caddf7c7679 "pdflatex"
+  "LeoCStein.out" 1792898435.79363 2083 1f9848b2700f3c447fd70b2a4872b328 "pdflatex"
+  "LeoCStein.tex" 1792898433.85887 15320 e1357eebdbb253a3b8bc22b3b5b76baf ""
   "PubsContent.tex" 1792774676.19201 25499 ee310d15f6bb5945edd3f39590747241 ""
   "TalksContent.tex" 1792896469.10799 3790 3917de7e640561d94ad7630dd5321eb1 ""
   "res.cls" 1792514201.94649 25066 8ec1e15ab4c53340bc92863668c7be49 ""
