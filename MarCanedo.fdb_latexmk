@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1792940005.28138 "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" "LeoCStein.pdf" "LeoCStein" 1792940006.19241 0
-  "/Users/marcoscanedo/Dev/GitHub/cv/LeoCStein.tex" 1792940005.12769 15503 37251454f6172c2eaab4e607771f93b6 ""
+["pdflatex"] 1792941185.52653 "/Users/marcoscanedo/Dev/GitHub/cv/MarCanedo.tex" "MarCanedo.pdf" "MarCanedo" 1792941186.42593 0
+  "/Users/marcoscanedo/Dev/GitHub/cv/MarCanedo.tex" 1792940034.18453 15503 37251454f6172c2eaab4e607771f93b6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -101,16 +101,16 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762876027 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "ContactContent.tex" 1792516825.76072 456 00af5826f3e9a02968d7f3cb817a1ec4 ""
-  "LeoCStein.aux" 1792940006.09285 1918 160b2ee6bcc54557b1b98caddf7c7679 "pdflatex"
-  "LeoCStein.out" 1792940006.09342 2083 1f9848b2700f3c447fd70b2a4872b328 "pdflatex"
-  "LeoCStein.tex" 1792940005.12769 15503 37251454f6172c2eaab4e607771f93b6 ""
+  "ContactContent.tex" 1792941175.79697 453 37b2180ed7a8f52667bf7f17c19e8464 ""
+  "MarCanedo.aux" 1792941186.33006 1918 4597d1e70baae6e0de5a7739c353f64b "pdflatex"
+  "MarCanedo.out" 1792941186.33063 2083 1f9848b2700f3c447fd70b2a4872b328 "pdflatex"
+  "MarCanedo.tex" 1792940034.18453 15503 37251454f6172c2eaab4e607771f93b6 ""
   "PubsContent.tex" 1792938471.5706 25540 939e36605b747ed046cb3bc22da6967a ""
-  "TalksContent.tex" 1792939944.96967 3742 4e834d7bbe9a43354e3a32d687117275 ""
+  "TalksContent.tex" 1792940950.10114 3909 ce36cec81454c43bb242064c70ef3226 ""
   "res.cls" 1792514201.94649 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
-  "LeoCStein.aux"
-  "LeoCStein.log"
-  "LeoCStein.out"
-  "LeoCStein.pdf"
+  "MarCanedo.aux"
+  "MarCanedo.log"
+  "MarCanedo.out"
+  "MarCanedo.pdf"
   (rewritten before read)
